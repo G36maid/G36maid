@@ -2,6 +2,7 @@
 
 🎓 CS + Mechatronics @ NTNU  
 🛠️ Homelab Builder  
+🐧 I use Arch BTW 
 🦀 Rustacean  
 🌐 System & Network Admin  
 
