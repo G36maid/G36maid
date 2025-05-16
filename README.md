@@ -1,4 +1,4 @@
-# 👋 Hi, I'm G36maid
+# I'm G36maid
 
 - 🎓 CS + Mechatronics @ NTNU  
 - 🛠️ Homelab Builder  
