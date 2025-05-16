@@ -1,10 +1,10 @@
 # 👋 Hi, I'm G36maid
 
-🎓 CS + Mechatronics @ NTNU  
-🛠️ Homelab Builder  
-🐧 I use Arch BTW 
-🦀 Rustacean  
-🌐 System & Network Admin  
+- 🎓 CS + Mechatronics @ NTNU  
+- 🛠️ Homelab Builder  
+- 🐧 I use Arch BTW 
+- 🦀 Rustacean  
+- 🌐 System & Network Admin  
 
 ---
 
