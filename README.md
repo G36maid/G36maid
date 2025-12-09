@@ -57,7 +57,8 @@ I specialize in low-level systems, virtualization, and building tools that impro
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=G36maid&show_icons=true&theme=omni&hide_border=true&bg_color=0d1117" height="150" alt="stats" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G36maid&layout=compact&theme=omni&hide_border=true&bg_color=0d1117" height="150" alt="languages" />
 
 <br>
