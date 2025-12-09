@@ -18,7 +18,7 @@ I am a **System Engineering** enthusiast and a dual-major student in **CS & Mech
 I specialize in low-level systems, virtualization, and building tools that improve developer experience.
 
 - 🔭 **Working on**: High-performance build systems & **Rust** tooling.
-- 💼 **Experience**: Backend Intern at **Moxa** (Go/VPN Control Plane), Open Source Contributor at **FreeBSD**.
+- 💼 **Experience**: Backend Intern at **Moxa** (Golang).
 - 🐧 **Daily Driver**: Arch Linux (Hyprland) / Neovim / Zed.
 - 🏠 **Homelab**: Proxmox Cluster running 15+ services (ZFS, Tailscale, Docker).
 
