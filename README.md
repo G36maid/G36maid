@@ -14,6 +14,12 @@
 
 ### 🧑‍💻 About Me
 
+<div align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=1793D1&center=true&vCenter=true&width=435&lines=System+Engineering+Enthusiast;CS+%26+Mechatronics+Student+@+NTNU;Arch+Linux+%2F+Rust+%2F+Homelab;Building+systems%2C+breaking+illusions." alt="Typing SVG" />
+</a>
+</div>
+
 I am a **System Engineering** enthusiast and a dual-major student in **CS & Mechatronics** at **NTNU**.  
 I specialize in low-level systems, virtualization, and building tools that improve developer experience.
 
@@ -55,14 +61,18 @@ I specialize in low-level systems, virtualization, and building tools that impro
 
 ---
 
+
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/G36maid/G36maid/raw/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/G36maid/G36maid/raw/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/G36maid/G36maid/raw/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G36maid&layout=compact&theme=omni&hide_border=true&bg_color=0d1117" height="150" alt="languages" />
-
-<br>
-
-[![](https://visitcount.itsvg.in/api?id=G36maid&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=G36maid&theme=onestar&no-frame=true&column=7" alt="G36maid's trophies" />
+  </a>
 </div>
