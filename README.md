@@ -27,7 +27,7 @@ I am a **System Engineering** enthusiast and a dual-major student in **CS & Mech
 I specialize in low-level systems, virtualization, and building tools that improve developer experience.
 
 - 🔭 **Working on**: low-level systems, **Rust** , and game development.
-- 💼 **Experience**: *Zed Guild** Contributor, Backend Intern at **Moxa** (Golang / Headscale), * **AsiaBSDCon 2026** Staff, **SITCON 2024/2025** Staff.
+- 💼 **Experience**: **Zed Guild** Contributor, Backend Intern at **Moxa** (Golang / Headscale), * **AsiaBSDCon 2026** Staff, **SITCON 2024/2025** Staff.
 - 🐧 **Daily Driver**: Arch Linux (Hyprland) / Kitty / Zed / opencode.
 - 🏠 **Homelab**: Proxmox Cluster running TrueNAS, OPNsense, and various Docker services via ZFS.
 
@@ -57,6 +57,7 @@ I specialize in low-level systems, virtualization, and building tools that impro
 ![FreeBSD](https://img.shields.io/badge/-FreeBSD-AB2B28?style=flat-square&logo=freebsd&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![QEMU](https://img.shields.io/badge/-QEMU-FF6600?style=flat-square&logo=qemu&logoColor=white)
 
 **Storage & File Systems** ![ZFS](https://img.shields.io/badge/-ZFS-000000?style=flat-square&logo=openzfs&logoColor=white)
