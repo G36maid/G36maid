@@ -46,13 +46,12 @@ I specialize in low-level systems, virtualization, and building tools that impro
 
 ### 🛠️ Technical Arsenal
 
-### 🛠️ Technical Arsenal
-
 **Programming Languages** ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 **OS & Virtualization** ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793d1?style=flat-square&logo=arch-linux&logoColor=white)
 ![FreeBSD](https://img.shields.io/badge/-FreeBSD-AB2B28?style=flat-square&logo=freebsd&logoColor=white)
