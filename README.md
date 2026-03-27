@@ -33,17 +33,6 @@ I specialize in low-level systems, virtualization, and building tools that impro
 
 ---
 
-### 🚀 Featured Projects & Current Focus
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[zed-mcp-server-markitdown](https://github.com/G36maid/zed-mcp-server-markitdown)** | 📝 Microsoft's MarkItDown integration for Zed Editor via **MCP**. | Rust, MCP, Wasm |
-| **TUI Games Collection** | ♟️ Akari(Light-Up) games running entirely in the terminal. | Rust, Ratatui |
-| **Godot Game Development** | 🎮 Developing a "Chants of Sennaar" inspired game for GGJ 2026. | Godot |
-| **[Homelab Infrastructure](https://github.com/G36maid)** | ☁️ High-availability infrastructure with **IaC** and Zero-Trust networking for dev use. | Proxmox, ZFS, Ansible, Tailscale |
-
----
-
 ### 🛠️ Technical Arsenal
 
 **Programming Languages** ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
@@ -78,6 +67,17 @@ I specialize in low-level systems, virtualization, and building tools that impro
 **Game Dev** 
 ![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
+
+---
+
+### 🚀 Projects & Current Focus
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[zed-mcp-server-markitdown](https://github.com/G36maid/zed-mcp-server-markitdown)** | 📝 Microsoft's MarkItDown integration for Zed Editor via **MCP**. | Rust, MCP, Wasm |
+| **TUI Games Collection** | ♟️ Akari(Light-Up) games running entirely in the terminal. | Rust, Ratatui |
+| **Godot Game Development** | 🎮 Developing a "Chants of Sennaar" inspired game for GGJ 2026. | Godot |
+| **[Homelab Infrastructure](https://github.com/G36maid)** | ☁️ High-availability infrastructure with **IaC** and Zero-Trust networking for dev use. | Proxmox, ZFS, Ansible, Tailscale |
 
 ---
 
