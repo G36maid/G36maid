@@ -89,10 +89,4 @@ I specialize in low-level systems, virtualization, and building tools that impro
   </picture>
 </div>
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=G36maid&theme=onestar&no-frame=true&column=7" alt="G36maid's trophies" />
-  </a>  
-</div>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=G36maid&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-unserori.vercel.app/?username=G36maid&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
