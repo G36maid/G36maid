@@ -95,4 +95,4 @@ I specialize in low-level systems, virtualization, and building tools that impro
   </a>  
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=G36maid&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
