@@ -89,4 +89,4 @@ I specialize in low-level systems, virtualization, and building tools that impro
   </picture>
 </div>
 
-[![trophy](https://github-profile-trophy-unserori.vercel.app/?username=G36maid&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-unserori.vercel.app/?username=G36maid&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
