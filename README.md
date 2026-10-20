@@ -74,6 +74,7 @@ I specialize in low-level systems, virtualization, and building tools that impro
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| **[moodle-mcp](https://github.com/G36maid/moodle-mcp)** | 🎓 **21+ Stars.** MCP server that lets AI agents operate **Moodle**: courses, assignments, forums, grades & files-as-markdown. | Rust, MCP, LLM |
 | **[zed-mcp-server-markitdown](https://github.com/G36maid/zed-mcp-server-markitdown)** | 📝 Microsoft's MarkItDown integration for Zed Editor via **MCP**. | Rust, MCP, Wasm |
 | **TUI Games Collection** | ♟️ Akari(Light-Up) games running entirely in the terminal. | Rust, Ratatui |
 | **Godot Game Development** | 🎮 Developing a "Chants of Sennaar" inspired game for GGJ 2026. | Godot |
